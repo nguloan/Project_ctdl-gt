@@ -1,0 +1,24 @@
+MỸ PHẨM
+0
+GIA DỤNG
+1
+THỜI TRANG
+2
+THỰC PHẨM
+3
+GIÀY DÉP NỮ
+4
+THỂ THAO
+5
+PHỤ KIỆN
+6
+NỘI Y
+7
+ĐIỆN MÁY
+8
+TÚI VÍ
+9
+ĐIỆN THOẠI
+10
+XE MÁY
+11

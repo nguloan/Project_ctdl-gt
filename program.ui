@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>program</class>
+ <widget class="QMainWindow" name="program">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1535</width>
+    <height>817</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QScrollArea" name="scrollArea">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>30</y>
+      <width>120</width>
+      <height>87</height>
+     </rect>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scrollAreaWidgetContents">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>118</width>
+       <height>85</height>
+      </rect>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QScrollArea" name="viewHistoryPd">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>210</y>
+      <width>751</width>
+      <height>87</height>
+     </rect>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="viewHistory">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>749</width>
+       <height>85</height>
+      </rect>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QScrollArea" name="viewFindPd">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>330</y>
+      <width>751</width>
+      <height>87</height>
+     </rect>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="viewFind">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>749</width>
+       <height>85</height>
+      </rect>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1535</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>Tùy chọn</string>
+    </property>
+    <addaction name="informationUser"/>
+    <addaction name="purchaseHistory"/>
+    <addaction name="editInformation"/>
+    <addaction name="logOut"/>
+    <addaction name="separator"/>
+    <addaction name="help"/>
+   </widget>
+   <widget class="QMenu" name="manage">
+    <property name="title">
+     <string>Quản lý</string>
+    </property>
+    <addaction name="managerUser"/>
+    <addaction name="managerProduct"/>
+    <addaction name="managerPH"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="manage"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="informationUser">
+   <property name="text">
+    <string>Thông tin tài khoản</string>
+   </property>
+  </action>
+  <action name="purchaseHistory">
+   <property name="text">
+    <string>Lịch sử mua hàng</string>
+   </property>
+  </action>
+  <action name="editInformation">
+   <property name="text">
+    <string>Chỉnh sửa thông tin</string>
+   </property>
+  </action>
+  <action name="logOut">
+   <property name="text">
+    <string>Đăng xuất</string>
+   </property>
+  </action>
+  <action name="managerUser">
+   <property name="text">
+    <string>Quản lý người dùng</string>
+   </property>
+  </action>
+  <action name="managerProduct">
+   <property name="text">
+    <string>Quản lý sản phẩm</string>
+   </property>
+  </action>
+  <action name="managerPH">
+   <property name="text">
+    <string>Quản lý lịch sửa mua hàng</string>
+   </property>
+  </action>
+  <action name="printerReport">
+   <property name="text">
+    <string>Xuất báo cáo</string>
+   </property>
+  </action>
+  <action name="help">
+   <property name="text">
+    <string>Hỗ trợ</string>
+   </property>
+  </action>
+  <action name="regist">
+   <property name="text">
+    <string>Đăng ký </string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

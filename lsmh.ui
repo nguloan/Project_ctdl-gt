@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>lsmh</class>
+ <widget class="QWidget" name="lsmh">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1374</width>
+    <height>788</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>80</width>
+    <height>40</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QScrollArea" name="scrollArea">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>44</y>
+     <width>16</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="widgetResizable">
+    <bool>true</bool>
+   </property>
+   <widget class="QWidget" name="scrollAreaWidgetContents">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>16</width>
+      <height>16</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="dahuybt">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>10</y>
+     <width>241</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="baseSize">
+    <size>
+     <width>60</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>15</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>ĐÃ HỦY</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="dagiaobt">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>70</y>
+     <width>183</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="baseSize">
+    <size>
+     <width>60</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>15</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>ĐÃ GIAO HÀNG</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="danggiaobt">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>220</y>
+     <width>230</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="baseSize">
+    <size>
+     <width>60</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>15</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>ĐANG GIAO HÀNG</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="dangchobt">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>190</y>
+     <width>310</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="baseSize">
+    <size>
+     <width>60</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>15</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>ĐANG CHỜ</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="tatcabt">
+   <property name="geometry">
+    <rect>
+     <x>-20</x>
+     <y>110</y>
+     <width>621</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>60</width>
+     <height>30</height>
+    </size>
+   </property>
+   <property name="baseSize">
+    <size>
+     <width>60</width>
+     <height>40</height>
+    </size>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>15</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>TẤT CẢ</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

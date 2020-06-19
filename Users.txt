@@ -1,0 +1,368 @@
+ADMIN
+root
+gbbe
+1
+0981878713
+n18dcat097@student.ptithcm.edu.vn
+3
+1
+Nguyễn Minh Quân
+info
+123456
+0
+0936789883
+info@gmail.com
+0
+0
+Nguyễn Phú Quang
+michael
+123456789
+0
+0906133989
+michael@gmail.com
+0
+1
+Lê Ngọc Vinh
+NULL
+123123
+0
+0904392323
+NULL@gmail.com
+0
+1
+LƯU VĂN NGÀ
+john
+111111
+0
+0936531386
+john@gmail.com
+0
+1
+NGUYỄN THỊ ÁNH NGUYỆT
+david
+anhyeuem
+0
+0936904789
+david@gmail.com
+0
+1
+PHẠM THỊ TUYẾT NHI
+marina
+1234567
+0
+0934669667
+robert@gmail.com
+0
+1
+HỒ MINH PHONG
+chris
+0123456789
+1
+0975409333
+chris@gmail.com
+0
+1
+LÊ THỊ MỸ PHỤNG
+mike
+0123456
+1
+0986590330
+mike@gmail.com
+0
+1
+LÊ TƯ PHƯƠNG
+dave
+12345678
+0
+0989750968
+dave@gmail.com
+0
+1
+PHAN HOÀI PHƯƠNG
+richard
+000000
+1
+0985729900
+richard@gmail.com
+0
+1
+LÊ NHỰT QUANG
+thomas
+asdasd
+0
+0964999268
+thomas@gmail.com
+0
+1
+NGUYỄN NGỌC QUANG
+steve
+25251325
+1
+0969668448
+steve@gmail.com
+0
+1
+PHẠM HOÀNG QUÝ
+mark
+1234567890
+0
+0964316899
+mark@gmail.com
+0
+1
+NGUYỄN ĐỨC QUỲNH
+andrew
+121212
+0
+0966119444
+andrew@gmail.com
+0
+1
+NGUYỄN NHẬT TÂN
+paul
+qweqwe
+0
+0937407968
+paul@gmail.com
+0
+1
+LƯƠNG MINH TIẾN
+charlie
+456789
+1
+0933498678
+charlie@gmail.com
+0
+1
+NGUYỄN VĂN TIẾN
+dragon
+112233
+1
+0935332002
+dragon@gmail.com
+0
+1
+NGUYỄN TRUNG TÍN
+james
+aaaaaa
+0
+0938553889
+james@gmail.com
+0
+1
+HUỲNH HỮU TÌNH
+qwerty
+123123123
+0
+0902966998
+qwerty@gmail.com
+0
+1
+NGUYỄN NGỌC TỊNH
+martin
+987654321
+1
+0932666079
+martin@gmail.com
+0
+1
+TRẦN BẢO TOÀN
+master
+11111111
+0
+0975263326
+master@gmail.com
+0
+1
+NGUYỄN VĂN THANH TÚ
+pussy
+qwerty
+0
+0944864479
+pussy@gmail.com
+0
+1
+ĐOÀN ANH TUẤN
+mail
+147258369
+0
+0948568658
+mail@gmail.com
+0
+1
+ĐỖ ANH TUẤN
+charles
+maiyeuem
+0
+0967862079
+charles@gmail.com
+0
+1
+NGUYỄN VĂN TUẤN
+bill
+123qwe
+0
+0987306363
+bill@gmail.com
+0
+1
+TRẦN VĂN TƯ
+patrick
+654321
+0
+0962273993
+patrick@gmail.com
+0
+1
+PHẠM THẠCH
+1234
+iloveyou
+1
+0938635363
+1234@gmail.com
+0
+1
+NGUYỄN VĂN THÀNH
+peter
+123654
+0
+0934141995
+peter@gmail.com
+0
+1
+NGUYỄN THÀNH THẮNG
+shadow
+999999
+1
+0932001110
+shadow@gmail.com
+0
+1
+NGUYỄN MẠNH THÌN
+johnny
+qqqqqq
+0
+0906371983
+johnny@gmail.com
+0
+1
+ĐẶNG LÊ CƯỜNG THỊNH
+hunter
+1111111
+0
+0902746686
+hunter@gmail.com
+0
+1
+VŨ PHẠM ĐỨC THỊNH
+carlos
+147258
+0
+0932576677
+carlos@gmail.com
+0
+1
+NGUYỄN THANH THÔNG
+black
+hota407
+1
+0962140979
+black@gmail.com
+0
+1
+LÊ XUÂN THU
+jason
+anhtuan
+0
+0967923338
+jason@gmail.com
+0
+1
+VÕ THỊ HOA TRANH
+tarrant
+222222
+1
+0932176779
+tarrant@gmail.com
+0
+1
+PHẠM MINH TRÍ
+alex
+159753
+1
+0965999835
+alex@gmail.com
+0
+1
+TRẦN CÔNG TRÍ
+brian
+11223344
+0
+0989554068
+brian@gmail.com
+0
+1
+TRẦN NGUYÊN THIÊN TRÍ
+steven
+anhnhoem
+0
+0966140179
+steven@gmail.com
+0
+1
+LỀNH HÀ BẢO TRỌNG
+scott
+anh123
+1
+0968298366
+scott@gmail.com
+0
+1
+LÂM THÀNH TRUNG
+edward
+159357
+0
+0969221922
+edward@gmail.com
+0
+1
+LÊ THÀNH TRUNG
+ttrungt1742
+17042000
+0
+0968672113
+ttrungt1742@gmail.com
+1
+1
+TRỊNH VĂN TRUNG
+12345
+asd123
+1
+0964429995
+12345@gmail.com
+0
+1
+NGUYỄN SỸ TRƯỜNG
+matthew
+0987654321
+1
+0973380580
+matthew@gmail.com
+0
+1
+NGUYỄN QUỐC KIỀU UYÊN
+justin
+emyeuanh
+1
+0946078988
+justin@gmail.com
+0
+1
+Tuyết Nhi
+mariana
+123456789
+0
+0454446464646
+mariana@gmail.com
+0
+1
